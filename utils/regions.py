@@ -1,0 +1,15 @@
+REGIONS = {
+    "Andijon": ["Andijon sh.", "Xonobod sh.", "Andijon", "Asaka", "Baliqchi", "Bo'ston", "Buloqboshi", "Izboskan", "Jalaquduq", "Marhamat", "Oltinko'l", "Paxtaobod", "Qo'rg'ontepa", "Shahrixon", "Ulug'nor", "Xo'jaobod"],
+    "Buxoro": ["Buxoro sh.", "Kogon sh.", "Buxoro", "G'ijduvon", "Jondor", "Kogon", "Olot", "Peshku", "Qorako'l", "Qorovulbozor", "Romitan", "Shofirkon", "Vobkent"],
+    "Farg'ona": ["Farg'ona sh.", "Marg'ilon sh.", "Quva sh.", "Qo'qon sh.", "Oltiariq", "Bag'dod", "Beshariq", "Buvayda", "Dang'ara", "Farg'ona", "Furqat", "O'zbekiston", "Ochko'l", "Qo'shtepa", "Quva", "Rishton", "So'x", "Toshloq", "Uchko'prik", "Yozyovon"],
+    "Jizzax": ["Jizzax sh.", "Arnasoy", "Baxmal", "Do'stlik", "Forish", "G'allaorol", "Sharof Rashidov", "Mirzacho'l", "Paxtakor", "Yangiobod", "Zafarobod", "Zarbdor", "Zomin"],
+    "Namangan": ["Namangan sh.", "Chortoq", "Chust", "Kosonsoy", "Mingbuloq", "Namangan", "Norin", "Pop", "To'raqo'rg'on", "Uychi", "Uychi", "Yangiqo'rg'on", "Davlatobod", "Yangi Namangan"],
+    "Navoiy": ["Navoiy sh.", "Zarafshon sh.", "G'ozg'on sh.", "Karmana", "Konimexh", "Qiziltepa", "Navbahor", "Nurota", "Tomdi", "Uchkuduk", "Xatirchi"],
+    "Qashqadaryo": ["Qarshi sh.", "Shahrisabz sh.", "Chiroqchi", "Dehqonobod", "G'uzor", "Kasbi", "Kitob", "Ko'kdala", "Koson", "Mirishkor", "Muborak", "Nishon", "Qamashi", "Qarshi", "Shahrisabz", "Yakkabog'"],
+    "Qoraqalpog'iston": ["Nukus sh.", "Amudaryo", "Beruniy", "Chimboy", "Ellikqal'a", "Kegeyli", "Mo'ynoq", "Nukus", "Qonliko'l", "Qorao'zak", "Qo'ng'irot", "Shumanay", "Taxtako'pir", "To'rtko'l", "Xo'jayli", "Taxiatosh", "Bo'zatov"],
+    "Samarqand": ["Samarqand sh.", "Kattaqo'rg'on sh.", "Bulung'ur", "Ishtixon", "Jomboy", "Kattaqo'rg'on", "Narpay", "Nurobod", "Oqdaryo", "Paxtachi", "Payariq", "Pastdarg'om", "Samarqand", "Toyloq", "Urgut", "Qo'shrabot"],
+    "Sirdaryo": ["Guliston sh.", "Shirin sh.", "Yangiyer sh.", "Boyovut", "Guliston", "Mirzaobod", "Oqoltin", "Sardoba", "Sayhunobod", "Sirdaryo", "Xovos"],
+    "Surxondaryo": ["Termiz sh.", "Angor", "Bandixon", "Boysun", "Denov", "Jarqo'rg'on", "Kumqo'rg'on", "Muzrabot", "Oltinsoy", "Qiziriq", "Qumqo'rg'on", "Sariosiyo", "Sherobod", "Sho'rchi", "Termiz", "Uzun"],
+    "Toshkent sh.": ["Bektemir", "Chilonzor", "Hamza (Yashnobod)", "Mirobod", "Mirzo Ulug'bek", "Olmazor", "Sergeli", "Shayxontohur", "Uchtepa", "Yakkasaroy", "Yunusobod", "Yangihayot"],
+    "Toshkent": ["Nurafshon sh.", "Angren sh.", "Bekobod sh.", "Chirchiq sh.", "Olmaliq sh.", "Ohangaron sh.", "Yangiyo'l sh.", "Bekobod", "Bo'stonliq", "Bo'ka", "Chinoz", "Qibray", "Ohangaron", "Oqqo'rg'on", "Parkent", "Piskent", "Quyi Chirchiq", "O'rta Chirchiq", "Yuqori Chirchiq", "Toshkent", "Yangiyo'l", "Zangiota"],
+}
